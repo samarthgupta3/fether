@@ -1,0 +1,6 @@
+SmartNodeProtocol
+0x10015c5db58e0cceda613ddb44b822ee65b8ca6e
+
+
+Network start command:
+$ geth --datadir smartNodeProtocol --networkid 123123 --ipcpath --rpc ~/.ethereum/geth.ipc console

@@ -1,0 +1,11 @@
+{
+  "name": "smart-node-protocol-app",
+  "version": "0.0.1",
+  "dependencies": {
+    "noflo": "^0.7.9",
+    "noflo-core": "^0.2.3",
+    "noflo-filesystem": "^1.0.8",
+    "noflo-nodejs": "^0.7.2",
+    "web3": "^0.17.0-beta"
+  }
+}

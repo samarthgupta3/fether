@@ -1,0 +1,18 @@
+{
+  "id": "2af5aa94-27d8-45f0-a029-ed9c7b4ba6e4",
+  "user": "47c2e7ae-3e35-4af4-9b37-7f82a445392e",
+  "host": "localhost",
+  "port": 3569,
+  "label": "fether",
+  "secret": "EONyy2u$",
+  "permissions": {
+    "EONyy2u$": [
+      "protocol:component",
+      "protocol:runtime",
+      "protocol:graph",
+      "protocol:network",
+      "component:getsource",
+      "component:setsource"
+    ]
+  }
+}
